@@ -3,7 +3,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "Github ~",
-    "url": "https://github.com/junyangfan"
+    "url": "https://github.com/jyfan-n"
   },
   {
     "name": "BiliBili",
@@ -29,12 +29,6 @@
     "icon": "/images/icon/youtube.png",
     "tip": "油管 ~",
     "url": "https://www.youtube.com/@it_zone_ytb"
-  },
-  {
-    "name": "Twitter/X",
-    "icon": "/images/icon/x.png",
-    "tip": "推特/X ~",
-    "url": "https://x.com/it_zone_x"
   },
   {
     "name": "Telegram",
